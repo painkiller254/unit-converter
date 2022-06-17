@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    color: purple;
+    background-color: gray;
+}
+
+#header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    padding-top: 5px;
+}
+
+#input{
+    background-color: purple;
+    border: 1px solid white;
+    width: 60px;      
+    height: 40px;  
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+#convert{
+    border-radius: 4px;
+    width: 90px;
+    height: 30px;
+    font-weight: bold;
+    background-color: white;
+    margin-bottom: 10px;
+    border: 1px solid purple;
+}
+
+#section {
+    border-radius: 5px;
+    background-color: white;
+    height: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+#length{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+#volume{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+#mass{
+    margin-left: 20px;
+    padding-top: 20px;
+}
